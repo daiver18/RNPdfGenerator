@@ -1,0 +1,40 @@
+const data = {
+  orden: 1234,
+  tecnico: 'juan',
+  checklist: [
+    {
+      pregunta:
+        'en cuanto esta la luzen cuanto esta la luzen cuanto esta la luzen cuanto esta la luzen cuanto esta la luzen cuanto esta la luzen cuanto esta la luzen cuanto esta la luzen cuanto esta la luzen cuanto esta la luzen cuanto esta la luz',
+      respuesta: '120v',
+    },
+    {pregunta: 'reviso conexion', respuesta: true},
+    {pregunta: 'cliente tiene factura', respuesta: true},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+    {pregunta: 'lugar adecuado', respuesta: false},
+  ],
+};
+
+export default data;
